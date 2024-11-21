@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PasswordFrontValidation/static/css/main.9c5b2e9b.css",
+    "main.js": "/PasswordFrontValidation/static/js/main.1e589daf.js",
+    "index.html": "/PasswordFrontValidation/index.html",
+    "main.9c5b2e9b.css.map": "/PasswordFrontValidation/static/css/main.9c5b2e9b.css.map",
+    "main.1e589daf.js.map": "/PasswordFrontValidation/static/js/main.1e589daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5b2e9b.css",
+    "static/js/main.1e589daf.js"
+  ]
+}
